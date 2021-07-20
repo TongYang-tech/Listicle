@@ -1,0 +1,102 @@
+#HeaderImage {    
+    background-size: cover;
+    background-position: top;
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3));
+    height: 500px;
+    width: 100%;
+}
+
+#ProfileImage {
+    border-radius: 100%;
+    border-color: white;
+    border-width: 1px;
+    width: 100px;
+}
+
+#ProfileText, #name {
+    font-size: 18px;
+    color: rgb(51, 51, 51);
+}
+
+#ProfileText {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    line-height: 24px;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 60px;
+}
+
+#name {
+    font-weight: bold;
+}
+
+#greyLine {
+    display: block;
+    width: 210px;
+    margin-top: 10px;
+    margin-left: 43%;
+    margin-bottom: 60px;
+    border-top: 2px solid #e6e6e6;
+}
+
+body {
+    margin: 0;
+}
+
+#ProfileHeader {
+    margin-top: -55px;
+    text-align: center; 
+}
+
+#PageTitle {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    font-size: 36px;
+    font-weight: normal;
+    font-family: 'Roboto Slab', serif;
+    background-color: deepskyblue;
+    max-width: 780px;
+    margin-top: -100px;
+    
+}
+
+.headingList, .numList {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.headingList {
+    margin-left: 16.665%;
+}
+
+.numList {
+    color: rgba(0, 0, 0, 0.25);
+    margin-right: 40px;
+}
+
+.paragraphs {
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgb(51, 51, 51);
+    display: inline-block;
+    max-width: 780px;
+    margin-left: 20.665%; 
+}
+
+.RestaurantPic {
+    width: 780px;
+    height: 800px;
+    margin-top: 20px;
+    margin-bottom: 120px;
+}
+
+.RecommendationText {
+    margin-top: -15px;
+    font-weight: bold;
+}
