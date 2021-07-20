@@ -1,6 +1,6 @@
 # Listicle
 
-An article made up of list of items or ideas
+An article made up of list of items or ideas using HTML/CSS
 
 # What I learned
 
